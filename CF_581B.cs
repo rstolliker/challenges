@@ -1,7 +1,6 @@
 // Solution to Codeforces 581 B : Luxourious houses
 using System;
 using System.Linq;
-using System.Runtime.Remoting.Messaging;
 
 class CF_581B
 {
